@@ -2,7 +2,8 @@
 
 **`Data Engineer and Data Science Enthusiast`**
 
-Welcome! 👋 I am Clarence Vinzcent I. Reyes, a self-taught Data Engineer and Data Science enthusiast - graduated with a Bachelor's Degree in Electronics Engineering at the University of Santo Tomas Philippines. My professional work experience started when I have been involved in SAP Shipment Projects for 8 months, as an Application Engineer for 1 year and 4 months, and a Business Operations Developer for 1 year and 10 months under DXC Technology. My love and enthusiasm for Python, SQL, and R grows more everyday and I love learning more about these amazing technologies.
+Welcome! 👋 I am Clarence Vinzcent I. Reyes, a self-taught Data Engineer and Data Science enthusiast - graduated with a Bachelor's Degree in Electronics Engineering at the University of Santo Tomas Philippines. My professional work experience started when I have been involved in SAP Shipment Projects for 8 months, as an Application Engineer for 1 year and 4 months, and a Business Operations Developer for 1 year and 10 months under DXC Technology. My love and enthusiasm for continuously learning modern Data Engineering and Orchestration frameworks like Airflow, Dagster, dbt, and Airbyte stems from the technological limitations provided by legacy enterprise ETL solutions (e.g. SSIS, Informatica, Talend) that presents many challenges as the complexity and volume of data arises.
+
 
 During my spare time, I have been learning Machine learning for R and Python and taking a deep dive into R and Python's ML and Data Science frameworks like Tidymodels, Tidyverse, Scikit-Learn, Keras, and Tensorflow.
 
