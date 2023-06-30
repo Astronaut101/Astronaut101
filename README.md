@@ -15,6 +15,7 @@ During my spare time, I have been learning Machine learning for R and Python and
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Power BI" width="20px" style="padding-right:10px;" src="./img/Power-BI.svg">
+<img align="left" alt="Apache Airflow" width="70px" style="padding-right:10px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/airflow-1.svg" />
 <img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="./img/Rlogo.png" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
